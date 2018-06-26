@@ -1,3 +1,11 @@
+# Demo
+[DEMO-URL](http://www.imdadareeph.com/cv/)
+
+Note: Hard-refresh the browser if components does not load first time.
+
+
+# Screenshot
+![alt text](http://i63.tinypic.com/212hiys.jpg "preview1")
 
 # How to use?
 
